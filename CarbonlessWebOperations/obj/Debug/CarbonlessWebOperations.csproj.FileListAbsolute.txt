@@ -1,0 +1,16 @@
+D:\Dropbox\Work\Visual Studio\Git\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\obj\Debug\CarbonlessWebOperations.csprojResolveAssemblyReference.cache
+D:\Dropbox\Work\Visual Studio\Git\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\CarbonlessWebOperations.dll
+D:\Dropbox\Work\Visual Studio\Git\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\CarbonlessWebOperations.pdb
+D:\Dropbox\Work\Visual Studio\Git\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\Syroot.Windows.IO.KnownFolders.dll
+D:\Dropbox\Work\Visual Studio\Git\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\Syroot.Windows.IO.KnownFolders.pdb
+D:\Dropbox\Work\Visual Studio\Git\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\Syroot.Windows.IO.KnownFolders.xml
+D:\Dropbox\Work\Visual Studio\Git\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\obj\Debug\CarbonlessWebOperations.dll
+D:\Dropbox\Work\Visual Studio\Git\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\obj\Debug\CarbonlessWebOperations.pdb
+D:\Dropbox\Work\Visual Studio\Projects\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\CarbonlessWebOperations.dll
+D:\Dropbox\Work\Visual Studio\Projects\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\CarbonlessWebOperations.pdb
+D:\Dropbox\Work\Visual Studio\Projects\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\Syroot.Windows.IO.KnownFolders.dll
+D:\Dropbox\Work\Visual Studio\Projects\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\Syroot.Windows.IO.KnownFolders.pdb
+D:\Dropbox\Work\Visual Studio\Projects\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\bin\Debug\Syroot.Windows.IO.KnownFolders.xml
+D:\Dropbox\Work\Visual Studio\Projects\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\obj\Debug\CarbonlessWebOperations.csprojResolveAssemblyReference.cache
+D:\Dropbox\Work\Visual Studio\Projects\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\obj\Debug\CarbonlessWebOperations.dll
+D:\Dropbox\Work\Visual Studio\Projects\CarbonlessWebOperations\CarbonlessWebOperationsDemo\CarbonlessWebOperations\obj\Debug\CarbonlessWebOperations.pdb
